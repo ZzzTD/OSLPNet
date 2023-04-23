@@ -2,4 +2,5 @@ PyTorch implementation of OSLPNet: A neural network model for street lamp post e
 
 
 
-Training, loading data, and other scripts are quickly updated
+The dataset data can be founded in https://pan.baidu.com/s/1DjLZ-jgFClqdg98dfAepWA (LPLP)
+
